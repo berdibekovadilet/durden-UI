@@ -1,2 +1,2 @@
 # durden-UI
-UI Library by @adilet &amp; @jeyefendi
+UI Library by @berdibekovadilet &amp; @jeyefendi
